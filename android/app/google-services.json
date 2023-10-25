@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478100494602",
+    "project_id": "flutter-projects-1da5b",
+    "storage_bucket": "flutter-projects-1da5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478100494602:android:69843ff61d4f5f5a5702f3",
+        "android_client_info": {
+          "package_name": "com.javiergarcia.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpG0B3MOZWIf7U0EDG4mZ95GDNFmxQQJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
